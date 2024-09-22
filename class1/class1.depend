@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673510415 source:c:\users\path finder\documents\class1\class1.cpp
+	"class1.h"
+	<iostream>
+
+1673510484 c:\users\path finder\documents\class1\class1.h
+
+1673510375 source:c:\users\path finder\documents\class1\main.cpp
+	<iostream>
+	"class1.h"
+

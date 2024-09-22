@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673510753 source:c:\users\path finder\documents\class2\main.cpp
+	<iostream>
+	"class2.h"
+
+1673510753 c:\users\path finder\documents\class2\class2.h
+
